@@ -106,8 +106,3 @@
     color: {{openBookColor}};
 }
 
-#kotobee .deniedBtn {
-    background-color: {{accessDeniedBg}};
-    border-color: {{accessDeniedBg}};
-    color: {{accessDeniedColor}};
-}
